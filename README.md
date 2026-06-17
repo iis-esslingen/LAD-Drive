@@ -2,6 +2,8 @@
 
 # LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers
 
+## IROS 2026
+
 [![arXiv](https://img.shields.io/badge/arXiv-2603.02035-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2603.02035)
 
 [**Fabian Schmidt**](https://rl.uni-freiburg.de/people/schmidt)<sup>1,2</sup> · [**Karol Fedurko**]()<sup>1</sup> · [**Markus Enzweiler**](https://markus-enzweiler.de/)<sup>1</sup> · [**Abhinav Valada**](https://rl.uni-freiburg.de/people/valada)<sup>2</sup>
@@ -14,6 +16,7 @@
 
 ## 📢 Updates
 - **[2026/03]** Paper released on arXiv!
+- **[2026/06]** LAD-Drive has been accepted to IROS 2026. See you in Pittsburgh!
 - **[Coming Soon]** We will release the full training code, fine-tuned model, and evaluation scripts upon paper acceptance.
 
 ---
